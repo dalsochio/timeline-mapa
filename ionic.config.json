@@ -1,0 +1,8 @@
+{
+  "name": "Timeline Mapa",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite",
+  "id": "19a49617"
+}
