@@ -1,0 +1,19 @@
+{
+  "name": "Timeline Mapa",
+  "short_name": "Timeline Mapa",
+  "description": "App para gravação de trajetos com geolocalização",
+  "theme_color": "#3880ff",
+  "background_color": "#ffffff",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "./",
+  "start_url": "./",
+  "icons": [
+    {
+      "src": "favicon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
